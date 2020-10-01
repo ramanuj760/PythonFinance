@@ -6,7 +6,7 @@ basic Finance Utilities for Python
 Requirements
 ------------
 
-1. Python >= 3
+1. Python = 3
 2. numpy
 3. scipy
 4. pandas
